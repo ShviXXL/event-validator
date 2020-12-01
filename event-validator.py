@@ -1,6 +1,5 @@
 import os
 import json
-import jsonschema
 
 # For cool features
 from datetime import datetime
