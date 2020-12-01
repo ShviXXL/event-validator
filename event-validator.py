@@ -20,13 +20,13 @@ TYPES = {
 
 
 # Path to the folder with JSON schemas
-PATH_SCHEMA = "/home/shvix/Documents/Interviews/Welltory/task_folder/schema"
+PATH_SCHEMA = "/path/to/folder"
 
 # Path to the folder with JSON files
-PATH_JSON = "/home/shvix/Documents/Interviews/Welltory/task_folder/event"
+PATH_JSON = "/path/to/folder"
 
 # Path to save log file
-PATH_LOG = "/home/shvix/Documents/Interviews/Welltory/task_folder/output.log"
+PATH_LOG = "/path/to/file"
 
 
 # Load all JSON schemas

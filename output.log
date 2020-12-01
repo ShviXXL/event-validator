@@ -1,31 +1,3 @@
-# event-validator
-
-Small script for validating JSON files with schemas.
-
-## Usage
-
-Change paths inside the script:
-
-```python
-# Path to the folder with JSON schemas
-PATH_SCHEMA = "/path/to/folder"
-
-# Path to the folder with JSON files
-PATH_JSON = "/path/to/folder"
-
-# Path to save log file
-PATH_LOG = "/path/to/file"
-```
-
-Run the script:
-
-```bash
-python event-validator.py
-```
-
-## Example
-
-```log
 2020-12-02 01:06:37.588746
 
 Validating event "1eba2aa1-2acf-460d-91e6-55a8c3e3b7a3": Invalid
@@ -173,4 +145,3 @@ Invalid events (13):
 - "e2d760c3-7e10-4464-ab22-7fda6b5e2562"
 - "fb1a0854-9535-404d-9bdd-9ec0abb6cd6c"
 - "ffe6b214-d543-40a8-8da3-deb0dc5bbd8c"
-```
