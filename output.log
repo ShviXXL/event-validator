@@ -1,4 +1,4 @@
-2020-12-02 01:06:37.588746
+2020-12-04 01:07:35.368135
 
 Validating event "1eba2aa1-2acf-460d-91e6-55a8c3e3b7a3": Invalid
   Validating "data" property: -
@@ -33,15 +33,15 @@ Validating event "297e4dc6-07d1-420d-a5ae-e4aff3aedc19": Valid
     Validating "finish_time" property: +
     Validating "activity_type" property: +
 
-Validating event "29f0bfa7-bd51-4d45-93be-f6ead1ae0b96": Valid
+Validating event "29f0bfa7-bd51-4d45-93be-f6ead1ae0b96": Invalid
 - Root element is not "object".
 | Its actual type is "null"
 
-Validating event "2e8ffd3c-dbda-42df-9901-b7a30869511a": Valid
+Validating event "2e8ffd3c-dbda-42df-9901-b7a30869511a": Invalid
 - Unknown event type "meditation_created".
 | Maybe you meant "cmarker_created"?
 
-Validating event "3ade063d-d1b9-453f-85b4-dda7bfda4711": Valid
+Validating event "3ade063d-d1b9-453f-85b4-dda7bfda4711": Invalid
 - Unknown event type "cmarker_calculated".
 | Maybe you meant "cmarker_created"?
 
@@ -57,6 +57,7 @@ Validating event "6b1984e5-4092-4279-9dce-bdaa831c7932": Invalid
 
 Validating event "a95d845c-8d9e-4e07-8948-275167643a40": Invalid
 - "event" property is missing.
+- "data" property is missing.
 
 Validating event "ba25151c-914f-4f47-909a-7a65a6339f34": Invalid
 - Unknown event type "label_       selected".
